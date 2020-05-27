@@ -1,0 +1,16 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 0,
+      "Text": "잘했습니다!"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "그럼 다음으로, 적을 공격하기 전에 LockOn을 배워볼까요?"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "Tap키를 눌러 상대방을 LockOn 할 수 있습니다. "
+    }
+  ]
+}

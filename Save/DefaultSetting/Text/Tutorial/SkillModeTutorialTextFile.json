@@ -1,0 +1,32 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 0,
+      "Text": "잘했습니다!"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "이제 AttackMode로 전환 해보도록 합시다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "AttackMode는 스태미너를 소모하는 대신 더욱 강력한 공격을 가할 수 있습니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "또한, 4연속 공격까지 가능합니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "스태미너를 소모하는 것에 신경써야하며, 스태미너가 없으면 체력을 소모하게 됩니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "극단적으로, 무리해서 사용하다 죽을 수도 있습니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "일단 한번 해보죠, Ctrl키를 눌러 AttackMode로 전환하세요."
+    }
+  ]
+}

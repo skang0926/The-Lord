@@ -1,0 +1,36 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 2,
+      "Text": "기다리고 있었습니다 영주님!"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "그래, 상황은?"
+    },
+    {
+      "CharacterType": 2,
+      "Text": "적의 수가 아군의 수보다 많습니다."
+    },
+    {
+      "CharacterType": 1,
+      "Text": "그렇군... 혹시 좋은 생각 있나?"
+    },
+    {
+      "CharacterType": 2,
+      "Text": "최대한 뭉쳐서 싸우는 것은 어떨까요?"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "좋은 생각이군, 그럼 내가 지목(LockOn) 한 상대부터 먼저 공격해서 쓰러뜨린다!"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "가자! 따라와!"
+    },
+    {
+      "CharacterType": 2,
+      "Text": "네!"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 0,
+      "Text": "잘했습니다!"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "그럼 이제 찌르기 공격을 해보죠."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "뒤로가면서 공격 버튼을 누르면 찌르기 공격이 나옵니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "찌르기는 가장 멀리 공격할 수 있지만 범위가 좁고 다른 공격에 비해 딜레이가 긴 편 입니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "즉, 신중하게 사용해야 합니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "그럼 한번 해볼까요? 뒤로 가면서 마우스 왼쪽 버튼을 눌러보세요."
+    }
+  ]
+}

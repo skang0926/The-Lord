@@ -1,0 +1,305 @@
+{
+	"CharacterList": [
+		{
+			"Name": "Bandit",
+			"Location X": -3332.46240234375,
+			"Location Y": -390.759765625,
+			"Location Z": 859.629150390625,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 0,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -4139.890625,
+			"Location Y": -2000.32080078125,
+			"Location Z": 904.4930419921875,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -120.00016021728516,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -2511.263916015625,
+			"Location Y": -2252.38623046875,
+			"Location Z": 847.455322265625,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 110.00013732910156,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -3332.46240234375,
+			"Location Y": -2588.166748046875,
+			"Location Z": 860.2635498046875,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 0,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -5181.677734375,
+			"Location Y": -4197.7275390625,
+			"Location Z": 825.63299560546875,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -120.00016021728516,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -2511.263916015625,
+			"Location Y": -4449.79296875,
+			"Location Z": 619.33502197265625,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 110.00013732910156,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -2924.1875,
+			"Location Y": 349.666015625,
+			"Location Z": 831.942626953125,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 40.000049591064453,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -2508.10595703125,
+			"Location Y": -1402.333984375,
+			"Location Z": 901.29229736328125,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -80.000045776367188,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -1098.481689453125,
+			"Location Y": -548.56488037109375,
+			"Location Z": 826.099853515625,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -4139.890625,
+			"Location Y": -4197.7275390625,
+			"Location Z": 742.4154052734375,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -120.00016021728516,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6219.4111328125,
+			"Location Y": -1546.76123046875,
+			"Location Z": 200.20085144042969,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6219.4111328125,
+			"Location Y": -1328.62548828125,
+			"Location Z": 220.17594909667969,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6219.4111328125,
+			"Location Y": -1154.4713134765625,
+			"Location Z": 240.16549682617188,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6219.4111328125,
+			"Location Y": -1753.724853515625,
+			"Location Z": 170.56541442871094,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6219.4111328125,
+			"Location Y": -1987.646728515625,
+			"Location Z": 128.65426635742188,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6076.052734375,
+			"Location Y": -1546.7613525390625,
+			"Location Z": 195.307373046875,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6076.052734375,
+			"Location Y": -1328.6256103515625,
+			"Location Z": 222.96864318847656,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6076.052734375,
+			"Location Y": -1154.471435546875,
+			"Location Z": 245.11630249023438,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6076.052734375,
+			"Location Y": -1753.7249755859375,
+			"Location Z": 162.04983520507813,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "knight",
+			"Location X": 6076.052734375,
+			"Location Y": -1987.6468505859375,
+			"Location Z": 142.06217956542969,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -1659.7601318359375,
+			"Location Y": -390.759765625,
+			"Location Z": 825.152099609375,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 0,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -2467.188232421875,
+			"Location Y": -2000.32080078125,
+			"Location Z": 874.61077880859375,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -120.00016021728516,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -838.5616455078125,
+			"Location Y": -2252.38623046875,
+			"Location Z": 770.68115234375,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 110.00013732910156,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -1659.7601318359375,
+			"Location Y": -2588.166748046875,
+			"Location Z": 776.853515625,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 0,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -3508.975830078125,
+			"Location Y": -4197.7275390625,
+			"Location Z": 697.89080810546875,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -120.00016021728516,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -838.5616455078125,
+			"Location Y": -4449.79296875,
+			"Location Z": 505.356689453125,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 110.00013732910156,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -1251.4852294921875,
+			"Location Y": 349.666015625,
+			"Location Z": 794.54168701171875,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 40.000049591064453,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -835.4036865234375,
+			"Location Y": -1402.333984375,
+			"Location Z": 823.659912109375,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -80.000045776367188,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": 574.2205810546875,
+			"Location Y": -548.56488037109375,
+			"Location Z": 770.55340576171875,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": 150.00018310546875,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		},
+		{
+			"Name": "Bandit",
+			"Location X": -2467.188232421875,
+			"Location Y": -4197.7275390625,
+			"Location Z": 639.93487548828125,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -120.00016021728516,
+			"Rotator Roll": 0,
+			"CurrentHP": 150
+		}
+	],
+	"GamePlayState": 0
+}

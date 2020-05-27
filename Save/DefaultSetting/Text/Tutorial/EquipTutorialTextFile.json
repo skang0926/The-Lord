@@ -1,0 +1,24 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 0,
+      "Text": "잘했습니다!"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "앞에 적이 있군요."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "이제 적을 공격을 하러 가도록 하겠습니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "그 전에 검을 꺼내보도록 하죠."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "E 키를 누르면 검을 꺼낼 수 있습니다."
+    }
+  ]
+}

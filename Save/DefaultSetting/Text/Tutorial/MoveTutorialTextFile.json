@@ -1,0 +1,20 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 0,
+      "Text": "The lord 에 오신걸 환영 합니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "여기는 튜토리얼 스테이지로, 게임 플레이를 위해 필요한 간단한 조작법을 알려드리는 곳 입니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "먼저 앞에 보이는 문 앞으로 이동하도록 해보죠"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "조작키는 W A S D, 그리고 Shift로 달릴 수 있습니다."
+    }
+  ]
+}

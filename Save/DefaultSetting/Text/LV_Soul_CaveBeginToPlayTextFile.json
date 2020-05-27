@@ -1,0 +1,36 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 4,
+      "Text": "어서와라..."
+    },
+    {
+      "CharacterType": 1,
+      "Text": "...네 녀석이 이 사건의 원흉으로 보이는군"
+    },
+    {
+      "CharacterType": 4,
+      "Text": "마을의 영주가 여기까지 오다니... 경솔하구나"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "무슨 자신감이지?"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "마치 네가 날 이길 수 있다고 생각하는것 같군."
+    },
+    {
+      "CharacterType": 4,
+      "Text": "너야말로 단신으로 여기까지 오다니 오만하구나."
+    },
+    {
+      "CharacterType": 4,
+      "Text": "혼자 온 걸 후회하게 해주지"
+    },
+    {
+      "CharacterType": 4,
+      "Text": "덤벼라!"
+    }
+  ]
+}

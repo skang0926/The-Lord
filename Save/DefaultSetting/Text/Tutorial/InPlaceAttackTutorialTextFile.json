@@ -1,0 +1,40 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 0,
+      "Text": "잘했습니다!"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "이제 다가가서 공격을 해보도록 하죠."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "The lord 에선 다양한 공격방식을 제공합니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "이동하지 않으면서 공격하거나, 앞으로 가면서 공격하거나, 뒤로가면서 찌르는 형태의 공격이 있습니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "또한 Q, R 버튼을 통해 스킬을 사용 할 수 있습니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "나아가서, 무기를 든 상태로 Ctrl 버튼을 누르면 보다 강력한 공격을 가하는 AttackMode도 존재합니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "하나씩 천천히 해보도록 하죠, 일단, 아무 이동을 하지 않은채로 공격을 한번해볼까요?"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "가만히 서서 공격은 연속으로 2번까지 공격이 가능합니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "한번 시도해보죠, 마우스 왼쪽 버튼을 연속으로 누르세요"
+    }
+  ]
+}

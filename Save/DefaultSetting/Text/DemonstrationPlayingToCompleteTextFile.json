@@ -1,0 +1,32 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 1,
+      "Text": "경보가 울리더군, 무슨일이지?"
+    },
+    {
+      "CharacterType": 2,
+      "Text": "영주님, 큰일났습니다, 도적떼가 마을 앞을 점령했습니다."
+    },
+    {
+      "CharacterType": 1,
+      "Text": "뭐라고?... 그럼 이 녀석도 그 중 한명인가 보군."
+    },
+    {
+      "CharacterType": 2,
+      "Text": "그런가 봅니다. 아무튼 그게 중요한게 아닙니다."
+    },
+    {
+      "CharacterType": 2,
+      "Text": "마을 앞을 탈환 해야 할 것 같습니다. 지금 밖에 병력이 대기 중 입니다."
+    },
+    {
+      "CharacterType": 2,
+      "Text": "빨리 가시죠"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "그래.. 알겠다. 가도록 하지."
+    }
+  ]
+}

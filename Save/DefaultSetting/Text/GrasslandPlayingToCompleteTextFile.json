@@ -1,0 +1,32 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 1,
+      "Text": "후... 끝났나?"
+    },
+    {
+      "CharacterType": 2,
+      "Text": "생각보다 적의 수가 많았군요."
+    },
+    {
+      "CharacterType": 1,
+      "Text": "그래.... 어쨌든 이겨서 다행이군"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "이 녀석들, 저 동굴에서 온 모양이야.. 점령하러 간다."
+    },
+    {
+      "CharacterType": 2,
+      "Text": "저희도 따라가겠습니다."
+    },
+    {
+      "CharacterType": 1,
+      "Text": "아니, 마을을 지킬 사람도 필요해, 입구까지만 엄호해주고, 안은 나 혼자 간다."
+    },
+    {
+      "CharacterType": 2,
+      "Text": "네 알겠습니다."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 0,
+      "Text": "잘했습니다!"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "이제 공격을 해볼까요?"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "마우스 왼쪽 버튼을 눌러 4연속 공격을 해봅시다."
+    }
+  ]
+}

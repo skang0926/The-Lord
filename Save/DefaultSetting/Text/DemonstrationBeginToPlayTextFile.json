@@ -1,0 +1,32 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 1,
+      "Text": "음... 처음 보는 얼굴인데.. 무슨일이지?"
+    },
+    {
+      "CharacterType": 3,
+      "Text": "니 녀석이 이 마을의 영주인가!?"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "그렇다만, 너는 누구냐?."
+    },
+    {
+      "CharacterType": 3,
+      "Text": "널 죽이러 왔다!!"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "이 마을에 어떻게 들어왔지?"
+    },
+    {
+      "CharacterType": 3,
+      "Text": "널 죽이러 왔다!!"
+    },
+    {
+      "CharacterType": 1,
+      "Text": "하.. 대화가 안 통하는군. 후회하게 해주지."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿{
+  "Dialogue": [
+    {
+      "CharacterType": 0,
+      "Text": "잘했습니다!"
+    },
+    {
+      "CharacterType": 0,
+      "Text": "이제 다음 장소로 이동하도록 하죠."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "그 후 가드를 연습해보겠습니다."
+    },
+    {
+      "CharacterType": 0,
+      "Text": "일단 이동하죠."
+    }
+  ]
+}
