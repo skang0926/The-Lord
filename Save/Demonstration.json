@@ -1,0 +1,15 @@
+{
+	"CharacterList": [
+		{
+			"Name": "Bandit",
+			"Location X": -3825.010498046875,
+			"Location Y": 1649.7100830078125,
+			"Location Z": 240.15574645996094,
+			"Rotator Pitch": 0,
+			"Rotator Yaw": -179.99980163574219,
+			"Rotator Roll": 0,
+			"CurrentHP": 100
+		}
+	],
+	"GamePlayState": 0
+}
