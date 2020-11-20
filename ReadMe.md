@@ -1,7 +1,7 @@
 The Lord
 ==========
 
-![](https://github.com/skang0926/The-Lord/TitleImg.PNG)
+![Title](https://user-images.githubusercontent.com/44337077/99770263-e84f0880-2b4a-11eb-9b3e-828d122ac732.PNG)
 
 UE4로 구현한 액션 롤플레잉 게임.  
 난이도가 높은 조작과 플레이를 통한 유저의 도전정신과 성취감을 제공.  
